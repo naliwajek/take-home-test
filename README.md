@@ -1,12 +1,12 @@
-Ruby project tempalte from [naliwajek/ruby-starter](https://github.com/naliwajek/ruby-starter)
+Ruby project template from [naliwajek/ruby-starter](https://github.com/naliwajek/ruby-starter)
 
 # Take home test
 
 Results saved in `output.txt` as requested.
 
 ## Requirements
-Docker (_mine was v19.03.13_)
-Make (_for `make` command_)
+* Docker (_mine was v19.03.13_)
+* Make (_for `make` command_)
 
 ## How to run it
 
